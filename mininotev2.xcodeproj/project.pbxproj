@@ -25,6 +25,7 @@
 		55AB9D092848B828001DEF61 /* MyNotes.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyNotes.swift; sourceTree = "<group>"; };
 		55AB9D0B2848C27C001DEF61 /* FolderView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FolderView.swift; sourceTree = "<group>"; };
 		55AB9D0D2848CA13001DEF61 /* NoteView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NoteView.swift; sourceTree = "<group>"; };
+		55AB9D0F2848D736001DEF61 /* testRegex.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = testRegex.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -41,6 +42,7 @@
 		55AB9CEF2848AC77001DEF61 = {
 			isa = PBXGroup;
 			children = (
+				55AB9D0F2848D736001DEF61 /* testRegex.playground */,
 				55AB9CFA2848AC77001DEF61 /* mininotev2 */,
 				55AB9CF92848AC77001DEF61 /* Products */,
 			);
