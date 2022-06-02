@@ -9,9 +9,10 @@ import SwiftUI
 
 @main
 struct mininotev2App: App {
+    @StateObject private var myNotes = MyNotes()
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            ContentView(myNotes: myNotes)
         }
     }
 }
